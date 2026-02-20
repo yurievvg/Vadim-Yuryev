@@ -1,21 +1,25 @@
-# Vadim Yuryev
+# Вадим Юрьев
 
-**System Analyst (Middle)**
-Integrations • API • Payments • AI
+**Системный аналитик (Middle)**
+Интеграции • API • Платежные системы • AI
 
-## About
+## О себе
 
-System Analyst with experience in integration design, API specification and payment modules.
+Системный аналитик с опытом проектирования интеграций, API и платёжных модулей.
 
-I work at the intersection of business and development:
+Работаю на стыке бизнеса и разработки:
 
-* Functional & Non-Functional Requirements
-* AS-IS / TO-BE modeling
-* REST API design
-* Database modeling
-* Development support to production
+* Функциональные и нефункциональные требования
+* Моделирование AS-IS / TO-BE
+* Проектирование REST API
+* Моделирование данных
+* Сопровождение разработки до продакшена
 
-## Stack
+## Резюме
+
+https://tomsk.hh.ru/resume/45541f73ff0faf8ff20039ed1f775a77434f77
+
+## Стек
 
 `User Story` `Use Case` `BPMN` `UML` `C4`
 `REST` `SOAP` `JSON` `XML`
@@ -23,11 +27,11 @@ I work at the intersection of business and development:
 `Miro` `Draw.io` `PlantUML`
 `DBeaver` `Agile`
 
-## Focus
+## Фокус
 
-AI integrations • System Design • Payment Architecture • Product Analytics
+AI-интеграции • System Design • Архитектура платёжных систем • Продуктовая аналитика
 
-## Contact
-
+## Контакты
+Телефон: 8-913-885-07-95
 Telegram: @YuryevVadim
-Email: [mirawingen1984@yandex.ru](mailto:mirawingen1984@yandex.ru)
+Email: yurievvg4@gmail.com, mirawingen1984@yandex.ru
