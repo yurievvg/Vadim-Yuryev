@@ -34,4 +34,4 @@ AI-интеграции • System Design • Архитектура платё�
 ## Контакты
 Телефон: 8-913-885-07-95
 Telegram: @YuryevVadim
-Email: yurievvg4@gmail.com, mirawingen1984@yandex.ru
+Email: yurievvg@gmail.com, mirawingen1984@yandex.ru
